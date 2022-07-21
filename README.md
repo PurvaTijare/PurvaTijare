@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PurvaTijare
+- 👋 Hi, I’m @Purva
 - 👀 I’m interested in Data Science and ML.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on DS projects.
