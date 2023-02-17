@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Purva
 - 👀 I’m interested in Data Science and ML.
 - 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on DS projects.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ...purvatijare211@gmail.com
 
 <!---
